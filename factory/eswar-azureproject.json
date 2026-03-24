@@ -1,0 +1,9 @@
+{
+	"name": "eswar-azureproject",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30c1801e-b331-4721-b743-8a6f3fa45120",
+		"tenantId": "08983daf-5aca-4f44-bc65-c23ce32d46ec"
+	}
+}

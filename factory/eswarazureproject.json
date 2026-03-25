@@ -1,0 +1,9 @@
+{
+	"name": "eswarazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "508b5471-a100-46ee-9be4-733c5686557a",
+		"tenantId": "8e34f429-1bef-49aa-91c7-a4aad341eb33"
+	}
+}
